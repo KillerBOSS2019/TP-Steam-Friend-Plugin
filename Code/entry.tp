@@ -1,0 +1,79 @@
+{
+    "sdk": 2,
+    "version": 100,
+    "name": "Touch Portal Steam plugin",
+    "id": "SteamAPI",
+    "configuration": {
+        "colorDark": "#f58742",
+        "colorLight": "#ffae57"
+    },
+	"plugin_start_cmd": "%TP_PLUGIN_FOLDER%TouchPortalSteamPlugin\\SteamFriendPlugin.exe",
+    "categories": [{
+        "id": "Main",
+        "name": "Steam Friend",
+		"imagepath": "%TP_PLUGIN_FOLDER%TouchPortalSteamPlugin\\icon.png",
+        "actions": [],
+        "events": [],
+        "states": [{
+                "id": "Online_User",
+                "type": "text",
+                "desc": "Steam Current Online User",
+                "default": "No One"
+            },
+			{
+                "id": "Offline_User",
+                "type": "text",
+                "desc": "Steam Current Offline User",
+                "default": "No One"
+            },
+			{
+                "id": "Busy_User",
+                "type": "text",
+                "desc": "Steam Current Busy User",
+                "default": "No One"
+            },
+			{
+                "id": "Away_User",
+                "type": "text",
+                "desc": "Steam Current Away User",
+                "default": "No One"
+            },
+			{
+                "id": "Snooze_User",
+                "type": "text",
+                "desc": "Steam Current Snooze User",
+                "default": "No One"
+            },
+			{
+                "id": "Looking_to_trade",
+                "type": "text",
+                "desc": "Steam Current Looking to trade User",
+                "default": "No One"
+            },
+			{
+                "id": "Looking_to_play",
+                "type": "text",
+                "desc": "Steam Current Looking to play User",
+                "default": "No One"
+            },
+			{
+                "id": "Ingame",
+                "type": "text",
+                "desc": "Steam Current Ingame User",
+                "default": "No One"
+            },
+			{
+                "id": "TotalFriends",
+                "type": "text",
+                "desc": "Steam Total Friends",
+                "default": "0"
+            },
+			{
+                "id": "Base64_UserIcon",
+                "type": "text",
+                "desc": "Steam Your Icon",
+                "default": "None"
+            }
+        ]
+    }]
+}

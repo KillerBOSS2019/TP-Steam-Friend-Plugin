@@ -1,5 +1,7 @@
 # Touch-Portal-Steam-Friend-Plugin
-
+Currently this plugin does not support Mac but it will be in the future
+This Plugin is 100% coded in Python https://www.python.org/
+Code will be available for anyone to see or use
 #installing the Plugin
 1. Download the TouchPortalSteamPlugin.tpp
 2. go to your TouchPortal App and install the plugin
