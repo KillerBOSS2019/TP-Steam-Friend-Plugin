@@ -5,13 +5,12 @@ Code will be available for anyone to see or use
 #installing the Plugin
 1. Download the TouchPortalSteamPlugin.tpp
 2. go to your TouchPortal App and install the plugin
-3. Once it says it's done you will need to close your TouchPortal
-4. Reopen it, it should say To allow this plugin or not click Trust Always
-5. wait for about 10s it should pop up a gui that you enter your info
-6. go to this link to get your SteamKey https://steamcommunity.com/dev/apikey sign to your Steam and you can put anyname you want
-7. it should after that it should give you a key copy that and paste it in the SteamKey Box
-8. To get your SteamID go https://steamcommunity.com/ and go to your profile once your there you should see on the url bar a number like 000000000000 Don't copy that one that just a example just copy yours and paste it to the SteamID 
-9. After all that click Submit if you still have any issues contact me on discord!
-10. Make Sure You dont share your SteamKey, If you think someone knows your SteamKey then go back to https://steamcommunity.com/dev/apikey and remove the current and make new one then delete the Login.json Press Win+R and put %appdata%\TouchPortal\plugins\TouchPortalSteamPlugin\ press click ok then delete Login.json
-11. Next time you open TouchPortal it should ask you enter your info again
+3. If this is your first plugin youll need to relaunch TP otherwise skip this step
+4. Now it should pop up says you want to trust this Plugin? Click Trust Always so it doesnt ask you everytime you open TP
+5. Once it's installed go to Settings select SteamFriend
+6. Go to [Steam](https://steamcommunity.com/dev/apikey) and login to your Steam Account and create a API Key
+7. Once thats done youll also need your Steam64ID which you can get it by going to your profile
+8. In your profile you should see the url like this `https://steamcommunity.com/profiles/76561198801475801/` copy the number would be `76561198801475801` that's mine for yours it's different 
+9. lastly enter those 2 data to the settings and you should be goood to go
+
 
