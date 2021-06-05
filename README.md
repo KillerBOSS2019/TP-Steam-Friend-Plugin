@@ -50,12 +50,12 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  13. In That Same Page Click Your Profile ![image](https://user-images.githubusercontent.com/55416314/120901850-10d3b700-c5f2-11eb-9464-4d60bc1f4489.png)
  14. Now it should take you somewhere Like this Page ![image](https://user-images.githubusercontent.com/55416314/120901880-32cd3980-c5f2-11eb-8176-3fa6e8d39a9c.png)
  15. Copy that thing that are under the blue line in that ScreenShot and put that also in a Notepad like This ![image](https://user-images.githubusercontent.com/55416314/120901930-63ad6e80-c5f2-11eb-8ece-f907454a49f8.png)
- 16. After all that Work Let's head over to TouchPortal App On Desktop again Click ![image](https://user-images.githubusercontent.com/55416314/120901960-863f8780-c5f2-11eb-9a45-423d81add6d5.png)
+ 16. After all that Work Let's head over to TouchPortal App On Desktop again Click <br>![image](https://user-images.githubusercontent.com/55416314/120901960-863f8780-c5f2-11eb-9a45-423d81add6d5.png)
  17. And it'll Open another Window and Next Click Plug-ins On The Sidebar
  18. And Now You should see a Drop Down Menu Should be Next to `Import plug-in...` Button And Select `TouchPortal Steam Plugin` (If You Dont see that Item in the Menu Dont warry just Restart your TouchPortal)
  19. Now You can popup the Nodpade you've saved And enter the Info in the Settings ![image](https://user-images.githubusercontent.com/55416314/120902077-209fcb00-c5f3-11eb-9d50-ca5e808dcbc9.png)
  20. After You inserted Everything like mine Click Save
- 21. After You've Saved the Settings you should go back to the settings again and select Steam Plugin You should see Status shows `Connected` Just like this ![image](https://user-images.githubusercontent.com/55416314/120902132-88eeac80-c5f3-11eb-88b4-b3ac73751907.png)
+ 21. After You've Saved the Settings you should go back to the settings again and select Steam Plugin You should see Status shows `Connected` Just like this <br>![image](https://user-images.githubusercontent.com/55416314/120902132-88eeac80-c5f3-11eb-88b4-b3ac73751907.png)
 
 
 
