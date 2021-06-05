@@ -37,8 +37,7 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  1. Go to <a target="_blank" href="https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin/releases" > Releases </a>
  2. Make Sure Download Right file for Your System **Mac-TouchPortalSteamPlugin.tpp** is for Mac OS and **Win-TouchPortalSteamPlugin.tpp** For Windows 10 User.
  3. After You have the File Head over to TouchPortal App on your Win/Mac PC
- 4. On Top Right You should see Something Like this 
- ![image](https://user-images.githubusercontent.com/55416314/120901464-ee409e80-c5ef-11eb-907e-fbafd58a8c59.png)
+ 4. On Top Right You should see Something Like this <br>![image](https://user-images.githubusercontent.com/55416314/120901464-ee409e80-c5ef-11eb-907e-fbafd58a8c59.png)
  6. Click `Import plugin-in...` And Select The .tpp File you've Downloaded in Step 2
  7. Next We need to create a API Key for it to get your Data (This is Safe I Do NOT Collect Data from you You're welcome to see the code!)
  8. Go Here to Create [Steam API Key](https://steamcommunity.com/dev/apikey)
