@@ -46,7 +46,7 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  9. For me I just Input `TPSteamPlugin` in the Domain Name and Click `I agree to the Steam Web API Terms of Use` and Click Register![image](https://user-images.githubusercontent.com/55416314/120901723-6c517500-c5f1-11eb-8971-c9b3204e3fe8.png)
  10. After You Clicked Register it should take you to a page like this <br>![image](https://user-images.githubusercontent.com/55416314/120901754-91de7e80-c5f1-11eb-8483-599fcfa76a8d.png)
  11. Copy The key in that page for me it would be `F7E05969F64A0B5134FCB14B96063E60` (This Key is just a example It wont work for you!)
- 12. Save that Key somewhere like in notpade
+ 12. Save that Key somewhere like in Nodpade
  13. In That Same Page Click Your Profile ![image](https://user-images.githubusercontent.com/55416314/120901850-10d3b700-c5f2-11eb-9464-4d60bc1f4489.png)
  14. Now it should take you somewhere Like this Page ![image](https://user-images.githubusercontent.com/55416314/120901880-32cd3980-c5f2-11eb-8176-3fa6e8d39a9c.png)
  15. Copy that thing that are under the blue line in that ScreenShot and put that also in a Notepad like This ![image](https://user-images.githubusercontent.com/55416314/120901930-63ad6e80-c5f2-11eb-8ece-f907454a49f8.png)
