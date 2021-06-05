@@ -23,11 +23,11 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  - Get List User In-Game
  - Get My Own Icon
  - Get Current X Game maximum achievements
-  - Maximum Achievements is What is the Maximum Number of Achievements that the game have
+   - Maximum Achievements is What is the Maximum Number of Achievements that the game have
  - Get Current X Game Current Achievements
-  - Curret X Game Achievements is whats the current Number of Achievements you've reached 
+   - Curret X Game Achievements is whats the current Number of Achievements you've reached 
  - Get Current X Game Achievement percent
-  - Shows Percent of Current Achievements / Maximum Number of Achievements
+   - Shows Percent of Current Achievements / Maximum Number of Achievements
  - Get Total X Game Playtime
  
  Here is the example of the States List It will create Game States by your own Library
