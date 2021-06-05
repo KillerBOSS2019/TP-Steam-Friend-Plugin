@@ -1,10 +1,10 @@
 ## TouchPortal SteamFriend Plugin
 - [TouchPortal SteamFriend Plugin](#TouchPortal-SteamFriend-Plugin)
- - [Description](#description)
- - [Actions/States](#SteamFriend-Actions/States)
+  - [Description](#description)
+  - [Actions/States](#SteamFriend-Actions/States)
   - [Action](#Actions)
   - [States](#States)
- - [Installation Guide](#Installation)
+  - [Installation Guide](#Installation)
 
 
 
