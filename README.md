@@ -1,4 +1,4 @@
-![Banner 1](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Banners/SteamBanner.jpg?raw=true)![Banner 2](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Banners/Steam_Friends_by_Killer_Boss.gif)
+![Banner 2](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Banners/Steam_Friends_by_Killer_Boss.gif)
 
 ## TouchPortal SteamFriend Plugin
 - [TouchPortal SteamFriend Plugin](#TouchPortal-SteamFriend-Plugin)
