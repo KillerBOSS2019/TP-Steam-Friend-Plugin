@@ -74,7 +74,7 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
 ## Demo
 A Demo page that shows off some of the features and functionality of TouchPortal Plugin can be found [Here](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Demo/steam-friends.tpz).
 Once install it will look like the image below
-![image](https://github/cj2tech/TP-Steam-Friend-Plugin/blob/main/Demo/DemoDevice.png)
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/DemoDevice.png)
 
 ### Import Demo Page
  1. Download demo page from [Here](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/DemoDevice.png).
