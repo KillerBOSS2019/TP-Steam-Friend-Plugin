@@ -89,5 +89,5 @@ Once install it will look like the image below
  6. Click Ok button to close the import confirmation page  
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/DemoPage.png)
  7. You will now have a new page names steam-friends showing of most fuctions of the plugin.
-*Note: Though the page in touch portal does look like it's not doing anything it is. You will see it update with infomation once you are using the app on a device.*
+*Note: Though the page in touch portal does look like it's not doing anything it is. You will see it update with infomation once you are using the app on a device.*  
 
