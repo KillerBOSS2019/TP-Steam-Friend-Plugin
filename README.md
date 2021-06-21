@@ -7,8 +7,8 @@
   - [Action](#Actions)
   - [States](#States)
   - [Installation Guide](#Installation)
-  - [Demo Page] (#demo)
-	- [Import Demo] (#import-demo-page)
+  - [Demo Page](#demo)
+	- [Import Demo](#import-demo-page)
 
 ## Description
 SteamFriend is a Plugin that allow you to see which your friend is online, offline, away etc.. and also see your own games too!
