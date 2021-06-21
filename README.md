@@ -15,7 +15,7 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
 ### Actions
  - Currently This Plugin does Not have any actions 
 
-### States
+### States Summary
  - Get Current Online, Offline, Aaway, Busy, Snooze and more!
  - Get Total Friends
  - Get Total Number of Friends in-Game (Any Game)
@@ -28,6 +28,9 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  - Get Current X Game Achievement percent
    - Shows Percent of Current Achievements / Maximum Number of Achievements
  - Get Total X Game Playtime
+ 
+ #### States Definitions
+ - Get
  
  Here is the example of the States List It will create Game States by your own Library
  ![image](https://user-images.githubusercontent.com/55416314/120901307-d61c4f80-c5ee-11eb-8e92-7b65ce5e7a95.png)
@@ -66,6 +69,22 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  20. After You inserted Everything like mine Click Save
  21. After You've Saved the Settings you should go back to the settings again and select Steam Plugin You should see Status shows `Connected` Just like this <br>![image](https://user-images.githubusercontent.com/55416314/120902132-88eeac80-c5f3-11eb-88b4-b3ac73751907.png)
 
+## Demo
+A Demo page that shows off some of the features and functionality of TouchPortal Plugin can be found [Here](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Demo/steam-friends.tpz).
+Once install it will look like the image below
+![image](https://github/cj2tech/TP-Steam-Friend-Plugin/blob/main/Demo/DemoDevice.png)
 
-
+### Import Demo Page
+ 1. Download demo page from [Here](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Demo/steam-friends.tpz).
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/ImportDemo.png)
+ 2. Click "Manage Page..." button on Touch Portal Main Menu. 
+ 3. Click "Import Page"
+ 4. Find the downloaded file steam-friends.tpz and click open
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/ImportConfirm.png)
+ 5. Click Yes when this pop-up appears
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/ImportSucces.png)
+ 6. Click Ok button to close the import confirmation page
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/DemoPage.png)
+ 7. You will now have a new page names steam-friends showing of most fuctions of the plugin.
+*Note: Though the page in touch portal does look like it's not doing anything it is. You will see it update with infomation once you are using the app on a device.*
 
