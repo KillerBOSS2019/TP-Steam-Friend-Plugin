@@ -61,12 +61,13 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  14. Now it should take you somewhere Like this Page.  
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/SteamProfile.png)
  15. Copy that thing that are under the blue line in that ScreenShot and put that also in a Notepad like This:  
-![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/PluginIcon.png)
- 16. After all that Work Let's head over to TouchPortal App On Desktop again Click.  
-![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/PluginSetUp.gif)
+![image](https://user-images.githubusercontent.com/55416314/120901930-63ad6e80-c5f2-11eb-8ece-f907454a49f8.png)
+ 16. After all that Work Let's head over to TouchPortal App On Desktop again Click. 
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/PluginIcon.png) 
  17. And it'll Open another Window and Next Click Plug-ins On The Sidebar
- 18. And Now You should see a Drop Down Menu Should be Next to `Import plug-in...` Button And Select `TouchPortal Steam Plugin` (If You Dont see that Item in the Menu Dont warry just Restart your TouchPortal)
- 19. Now You can popup the Nodpade you've saved And enter the Info in the Settings.  
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/PluginSetUp.gif)
+ 19. And Now You should see a Drop Down Menu Should be Next to `Import plug-in...` Button And Select `TouchPortal Steam Plugin` (If You Dont see that Item in the Menu Dont warry just Restart your TouchPortal)
+ 20. Now You can popup the Nodpade you've saved And enter the Info in the Settings.  
  ![image](https://user-images.githubusercontent.com/55416314/120902077-209fcb00-c5f3-11eb-9d50-ca5e808dcbc9.png)
  20. After You inserted Everything like mine Click Save
  21. After You've Saved the Settings you should go back to the settings again and select Steam Plugin You should see Status shows `Connected` Just like this  
