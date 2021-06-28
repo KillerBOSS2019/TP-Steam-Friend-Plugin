@@ -60,7 +60,7 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/Profileclick.png)
  14. Now it should take you somewhere Like this Page.  
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/SteamProfile.png)
- 15. Copy that thing that are under the blue line in that ScreenShot and put that also in a Notepad like This:  
+ 15. Copy 17 long number that is highlighted in the the ScreenShot and put that also in a Notepad like This:  
 ![image](https://user-images.githubusercontent.com/55416314/120901930-63ad6e80-c5f2-11eb-8ece-f907454a49f8.png)
  16. After all that Work Let's head over to TouchPortal App On Desktop again Click. 
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/PluginIcon.png) 
