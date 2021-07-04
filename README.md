@@ -34,43 +34,44 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  #### States Definitions
  - Get
  
- Here is the example of the States List It will create Game States by your own Library  
+Here is the example of the states list it will create game states by your own library.  
  ![image](https://user-images.githubusercontent.com/55416314/120901307-d61c4f80-c5ee-11eb-8e92-7b65ce5e7a95.png)
  
  ## Installation
- 1. Go to <a target="_blank" href="https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin/releases" > Releases </a>
- 2. Make Sure Download Right file for Your System **Mac-TouchPortalSteamPlugin.tpp** is for Mac OS and **Win-TouchPortalSteamPlugin.tpp** For Windows 10 User.
- 3. After You have the File Head over to TouchPortal App on your Win/Mac PC
- 4. On Top Right You should see Something Like this.  
+ 1. Go to <a target="_blank" href="https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin/releases" > Releases </a> ont the main page of this github.
+ 2. Make sure download right file for your system **Mac-TouchPortalSteamPlugin.tpp** is for macOS users and **Win-TouchPortalSteamPlugin.tpp** for Windows 10 users.
+ 3. After you have the file head over to touchportal app on your Mac/Win pc.
+ 4. On the top right click the wrench icon.  
 ![image](https://user-images.githubusercontent.com/55416314/120901464-ee409e80-c5ef-11eb-907e-fbafd58a8c59.png)
- 6. Click `Import plugin-in...` And Select The .tpp File you've Downloaded in Step 2
- 7. Next We need to create a API Key for it to get your Data (This is Safe I Do NOT Collect Data from you You're welcome to see the code!)  
- 8. Go Here to Create [Steam API Key](https://steamcommunity.com/dev/apikey)
-    - If You see This then Just login to your Steam Account:  
+ 5. Click `Import plugin-in...` and select the .tpp file you've downloaded in step 2.
+ 6. Next we need to get an API Key to retrieve data from Steam.(All data is only transfered between Steam and you. I do not collect any data. Feel free to check my code!)  
+ 7. Go to the following Steam website to attain an [Steam API Key](https://steamcommunity.com/dev/apikey)
+    - Login to your steam account if you reach this login page:  
 ![image](https://user-images.githubusercontent.com/55416314/120901588-cd2c7d80-c5f0-11eb-82e1-00b482a9338b.png)
-    - If You already Login You should see This:  
+    - If are already logged in you will see the API key registration page:  
 ![image](https://user-images.githubusercontent.com/55416314/120901648-154ba000-c5f1-11eb-90bb-80a5e2cd0803.png)
- 9. For me I just Input `TPSteamPlugin` in the Domain Name and Click `I agree to the Steam Web API Terms of Use` and Click Register.  
+ 8. For me i just entered `TPSteamPlugin` for the domain name and checked the box next to `I agree to the Steam Web API Terms of Use` and clicked the green register button.  
  ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/KeyRegister.png)
- 10. After You Clicked Register it should take you to a page like this.  
+ 9. After You Clicked Register it will generate your personal API Key. (You can comeback to the same page to revoke the API Key)
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/SteamKey.png)
- 11. Copy The key in that page for me it would be `F7E05969F64A0B5134FCB14B96063E60` (This Key is just a example It wont work for you!)  
- 12. Save that Key somewhere like in Nodpade
- 13. In That Same Page Click Your Profile.  
+ 10. The API key that I got was `F7E05969F64A0B5134FCB14B96063E60` (This Key is just a example It wont work for you!)  
+ 11. Save the API key in Notepad for later use.
+ 12. On the same page click your profile picture in the top right.  
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/Profileclick.png)
- 14. Now it should take you somewhere Like this Page.  
+ 13. Your profile page will look something simalar to this.  
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/SteamProfile.png)
- 15. Copy 17 long number that is highlighted in the the ScreenShot and put that also in a Notepad like This:  
+ 14. Copy highlighted 17 digit number SteamID in the URL and copy it to Notepad for later use like this:  
 ![image](https://user-images.githubusercontent.com/55416314/120901930-63ad6e80-c5f2-11eb-8ece-f907454a49f8.png)
- 16. After all that Work Let's head over to TouchPortal App On Desktop again Click. 
+ 15. Now that we have the API Key and your SteamID goto the TouchPortal App On Desktop again Click the cog icon. 
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/PluginIcon.png) 
- 17. And it'll Open another Window and Next Click Plug-ins On The Sidebar
+ 16. This will open another window.
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/PluginSetUp.gif)
- 19. And Now You should see a Drop Down Menu Should be Next to `Import plug-in...` Button And Select `TouchPortal Steam Plugin` (If You Dont see that Item in the Menu Dont warry just Restart your TouchPortal)
- 20. Now You can popup the Nodpade you've saved And enter the Info in the Settings.  
- ![image](https://user-images.githubusercontent.com/55416314/120902077-209fcb00-c5f3-11eb-9d50-ca5e808dcbc9.png)
- 20. After You inserted Everything like mine Click Save
- 21. After You've Saved the Settings you should go back to the settings again and select Steam Plugin You should see Status shows `Connected` Just like this  
+ 17. Click Plug-ins.  
+ 18. You will see a drop-down menu next to the `Import plug-in...` Button, if not restart TouchPortal.  
+ 19. Enter in the SteamID and the API Key into their respective fields.
+![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Install/KeyToPlugin.png)
+ 20. After You inserted everything Click Save.
+ 21. After you've saved the settings you should go back to the settings again and select steam plugin you should see status shows `Connected` just like this:
  ![image](https://user-images.githubusercontent.com/55416314/120902132-88eeac80-c5f3-11eb-88b4-b3ac73751907.png)
 
 ## Demo
