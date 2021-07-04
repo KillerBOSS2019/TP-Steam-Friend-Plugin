@@ -1,21 +1,25 @@
 ![Banner 2](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Banners/Steam_Friends_by_Killer_Boss.gif)
 
 ## TouchPortal SteamFriend Plugin
-- [TouchPortal SteamFriend Plugin](#TouchPortal-SteamFriend-Plugin)
+- [TouchPortal SteamFriend Plugin](#touchportal-steamfriend-plugin)
   - [Description](#description)
-  - [Actions/States](#SteamFriend-Actions/States)
-  - [Action](#Actions)
-  - [States](#States)
-  - [Installation Guide](#Installation)
+  - [Actions/States](#steamfriend-actions-and-states)
+  	- [Actions](#actions)
+ 	- [States](#states)
+ 	- [Sates Summary](states-summary)
+  - [Installation Guide](#installation)
   - [Demo Page](#demo)
 	- [Import Demo](#import-demo-page)
 
 ## Description
 SteamFriend is a Plugin that allow you to see which your friend is online, offline, away etc.. and also see your own games too!
 
-## SteamFriend Actions/States
+## SteamFriend Actions and States
 ### Actions
  - Currently This Plugin does Not have any actions 
+
+### States
+![image](https://user-images.githubusercontent.com/55416314/120901307-d61c4f80-c5ee-11eb-8e92-7b65ce5e7a95.png)
 
 ### States Summary
  - Get Current Online, Offline, Aaway, Busy, Snooze and more!
@@ -30,15 +34,9 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  - Get Current X Game Achievement percent
    - Shows Percent of Current Achievements / Maximum Number of Achievements
  - Get Total X Game Playtime
- 
- #### States Definitions
- - Get
- 
-Here is the example of the states list it will create game states by your own library.  
- ![image](https://user-images.githubusercontent.com/55416314/120901307-d61c4f80-c5ee-11eb-8e92-7b65ce5e7a95.png)
- 
+  
  ## Installation
- 1. Go to <a target="_blank" href="https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin/releases" > Releases </a> ont the main page of this github.
+ 1. Go to <a target="_blank" href="https://github.com/KillerBOSS2019/TP-Steam-Friend-Plugin/releases" > Releases </a> on the main page of this github.
  2. Make sure download right file for your system **Mac-TouchPortalSteamPlugin.tpp** is for macOS users and **Win-TouchPortalSteamPlugin.tpp** for Windows 10 users.
  3. After you have the file head over to touchportal app on your Mac/Win pc.
  4. On the top right click the wrench icon.  
@@ -87,9 +85,9 @@ Once install it will look like the image below
  4. Find the downloaded file steam-friends.tpz and click open  
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/ImportConfirm.png)
  5. Click Yes when this pop-up appears  
-![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/ImportSucces.png)
+![image]
  6. Click Ok button to close the import confirmation page  
 ![image](https://github.com/cj2tech/TP-Steam-Friend-Plugin/blob/main/Images/Demo/DemoPage.png)
- 7. You will now have a new page names steam-friends showing of most fuctions of the plugin.
+ 7. You will now have a new page named steam-friends showing of most fuctions of the plugin.
 *Note: Though the page in touch portal does look like it's not doing anything it is. You will see it update with infomation once you are using the app on a device.*  
 
