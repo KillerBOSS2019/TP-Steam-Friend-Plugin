@@ -6,7 +6,7 @@
   - [Actions/States](#steamfriend-actions-and-states)
   	- [Actions](#actions)
  	- [States](#states)
- 	- [Sates Summary](states-summary)
+ 	- [Sates Summary](#states-summary)
   - [Installation Guide](#installation)
   - [Demo Page](#demo)
 	- [Import Demo](#import-demo-page)
