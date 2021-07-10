@@ -90,4 +90,3 @@ Once install it will look like the image below
 ![image](Images/Demo/DemoPage.png)
  7. You will now have a new page named steam-friends showing of most fuctions of the plugin.
 *Note: Though the page in touch portal does look like it's not doing anything it is. You will see it update with infomation once you are using the app on a device.*  
-
