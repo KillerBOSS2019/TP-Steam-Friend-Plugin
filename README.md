@@ -47,7 +47,7 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
     - Login to your steam account if you reach this login page:  
 ![image](Images/Install/SteamLogin.png)
     - If are already logged in you will see the API key registration page:  
-![image](mages/Install/APIRegistratrion.png)
+![image](Images/Install/APIRegistratrion.png)
  8. For me i just entered `TPSteamPlugin` for the domain name and checked the box next to `I agree to the Steam Web API Terms of Use` and clicked the green register button.  
  ![image](Images/Install/KeyRegister.png)
  9. After You Clicked Register it will generate your personal API Key. (You can comeback to the same page to revoke the API Key)
@@ -69,7 +69,7 @@ SteamFriend is a Plugin that allow you to see which your friend is online, offli
  19. Enter in the SteamID and the API Key into their respective fields.
 ![image](Images/Install/KeyToPlugin.png)
  20. After You inserted everything Click Save.
- 21. After you've saved the settings you should go back to the settings again and select steam plugin you should see status shows `Connected` just like this:
+ 21. After you've saved the settings you should go back to the settings again and select steam plugin you should see status shows `Connected` just like this:  
  ![image](Images/Install/PluginSettings.png)
 
 ## Demo
