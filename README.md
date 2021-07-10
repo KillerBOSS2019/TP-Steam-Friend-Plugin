@@ -1,4 +1,8 @@
-![Banner 2](Images/Banners/Steam_Friends_by_Killer_Boss.gif)
+![Banner 2](Images/Banners/Steam_Friends_by_Killer_Boss.gif)  
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/KillerBOSS2019/TP-Steam-Friend-Plugin)
+![GitHub all releases](https://img.shields.io/github/downloads/KillerBOSS2019/TP-Steam-Friend-Plugin/total)
+![GitHub issues](https://img.shields.io/github/issues/KillerBOSS2019/TP-Steam-Friend-Plugin)
 
 ## TouchPortal SteamFriend Plugin
 - [TouchPortal SteamFriend Plugin](#touchportal-steamfriend-plugin)
