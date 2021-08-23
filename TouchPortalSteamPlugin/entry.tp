@@ -1,0 +1,149 @@
+{
+    "sdk": 3,
+    "version": 200,
+    "name": "Touch Portal Steam plugin",
+    "id": "SteamAPI",
+    "configuration": {
+        "colorDark": "#f58742",
+        "colorLight": "#ffae57"
+    },
+	"settings": [{
+      "name": "API Key: ",
+      "type": "text",
+      "default": "",
+      "readOnly": false
+    },
+	{
+      "name": "Steam ID: ",
+      "type": "text",
+      "default": "",
+      "readOnly": false
+    },
+	{
+      "name": "Status",
+      "type": "text",
+      "default": "Disconnected",
+      "readOnly": true
+    }
+	],
+	"plugin_start_cmd": "%TP_PLUGIN_FOLDER%TouchPortalSteamPlugin\\TP-SteamPlugin.exe",
+    "categories": [
+	{
+        "id": "Main",
+        "name": "Steam Friend",
+        "imagepath": "%TP_PLUGIN_FOLDER%TouchPortalSteamPlugin\\icon.png",
+        "actions": [],
+        "events": [],
+        "states": [
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Online_User",
+                "type": "text",
+                "desc": "Steam: Current Online User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Online_User",
+                "type": "text",
+                "desc": "Steam: Current Online User in Number",
+                "default": "0"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Offline_User",
+                "type": "text",
+                "desc": "Steam: Current Offline User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Offline_User",
+                "type": "text",
+                "desc": "Steam: Current Offline User in Number",
+                "default": "0"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Busy_User",
+                "type": "text",
+                "desc": "Steam: Current Busy User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Busy_User",
+                "type": "text",
+                "desc": "Steam: Current Busy User in Number",
+                "default": "0"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Away_User",
+                "type": "text",
+                "desc": "Steam: Current Away User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Away_User",
+                "type": "text",
+                "desc": "Steam: Current Away User in Number",
+                "default": "0"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Snooze_User",
+                "type": "text",
+                "desc": "Steam: Current Snooze User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Snooze_User",
+                "type": "text",
+                "desc": "Steam: Current Snooze User in Number",
+                "default": "0"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Looking_to_trade",
+                "type": "text",
+                "desc": "Steam: Current Looking to trade User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Looking_to_trade",
+                "type": "text",
+                "desc": "Steam: Current Looking to trade User in Number",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Looking_to_play",
+                "type": "text",
+                "desc": "Steam: Current Looking to play User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Looking_to_play",
+                "type": "text",
+                "desc": "Steam: Current Looking to play User in Number",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.Number.Ingame",
+                "type": "text",
+                "desc": "Steam: Current Number User in game",
+                "default": "0"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.User.Ingame",
+                "type": "text",
+                "desc": "Steam: Current Ingame User",
+                "default": "None"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.DefaultStatus.TotalFriends",
+                "type": "text",
+                "desc": "Steam: Total Friends",
+                "default": "0"
+            },
+			{
+                "id": "KillerBOSS.TPPlugin.Base64_UserIcon",
+                "type": "text",
+                "desc": "Steam: Your Icon",
+                "default": "None"
+            }
+        ]
+    },
+	]
+}
